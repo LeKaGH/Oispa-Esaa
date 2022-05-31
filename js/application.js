@@ -5,16 +5,16 @@ window.requestAnimationFrame(function () {
 
 
     var imageList = [
-        "http://www.oispaesaa.cf/img/2.png",
-        "http://www.oispaesaa.cf/img/4.png",
-        "http://www.oispaesaa.cf/img/8.png",
-        "http://www.oispaesaa.cf/img/16.png",
-        "http://www.oispaesaa.cf/img/32.png",
-        "http://www.oispaesaa.cf/img/64.png",
-        "http://www.oispaesaa.cf/img/128.png",
-        "http://www.oispaesaa.cf/img/256.png",
-        "http://www.oispaesaa.cf/img/512.png",
-        "http://www.oispaesaa.cf/img/1024.png",
+        "https://lekagh.github.io/img/2.png",
+        "https://lekagh.github.io/img/4.png",
+        "https://lekagh.github.io/img/8.png",
+        "https://lekagh.github.io/img/16.png",
+        "https://lekagh.github.io/img/32.png",
+        "https://lekagh.github.io/img/64.png",
+        "https://lekagh.github.io/img/128.png",
+        "https://lekagh.github.io/img/256.png",
+        "https://lekagh.github.io/img/512.png",
+        "https://lekagh.github.io/img/1024.png",
 
     ];
     for(var i = 0; i < imageList.length; i++ )

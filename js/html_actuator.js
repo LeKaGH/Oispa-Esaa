@@ -148,7 +148,7 @@ HTMLActuator.prototype.updateScore = function (score) {
 
   if (difference > 0) {
 
-    snd = new Audio("http://www.oispaesaa.cf/snd/pen/pencil_scribble0" + Math.floor(Math.random() * 3).toString() + ".ogg")
+    snd = new Audio("https://lekagh.github.io/snd/pen/pencil_scribble0" + Math.floor(Math.random() * 3).toString() + ".ogg")
 
     var addition = document.createElement("div");
     addition.classList.add("score-addition");
