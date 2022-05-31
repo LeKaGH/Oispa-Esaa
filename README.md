@@ -1,4 +1,4 @@
-# Oispa KaLussa!
-Saatko kirjoitettua laudaturin? KaLu-teemainen oispakaljaa-klooni.
+# Oispa Esaa!
+Pystytkö juomaan monta Energia Juomaa ja tekemään niistä parempia?
 
-Pelaa [täällä](http://oispakalussa.tk/)!
+Pelaa [täällä](https://LeKaGH.github.io./)!
