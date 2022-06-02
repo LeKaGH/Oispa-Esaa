@@ -967,7 +967,7 @@ hr {
           font-size: 15px; } }
     .tile.tile-super .tile-inner {
 
-      background: #fff url('');
+      background: #fff url('https://oispasipsii-tk/img/super.png');
       background-size: cover;
       font-size: 30px; }
       @media screen and (max-width: 480px) {
