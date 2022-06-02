@@ -1,4 +1,4 @@
-# Oispa Sipsii!
-Pystytkö syömään monta Sipsii ja tekemään niistä parempia?
+# Oispa Esaa!
+Pystytkö juomaan monta Energia Juomaa ja tekemään niistä parempia?
 
-Pelaa [täällä](https://oispasipsii.tk/)!
+Pelaa [täällä](https://oispaesaa.tk/)!
