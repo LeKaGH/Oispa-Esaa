@@ -11,7 +11,7 @@ path_overrides: Dict[str, str] = {
 }
 
 
-urls = [f"oispakalussa.tk/{x}" for x in asset_folders]
+urls = [f"oispaesaa.tk/{x}" for x in asset_folders]
 files = []
 def addFiles(path: str):
     global files
