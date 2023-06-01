@@ -5,7 +5,7 @@ html, body {
   color: #000;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
 /*  font-family: 'Comic Sans', 'Comic Sans', Chalkboard, Helvetica, Arial, sans-serif; */
-    background: url("https://oispaesaa.tk/img/megabg.png");
+    background: url("https://lekagh.github.io/Oispa-Esaa/img/megabg.png");
   background-attachment: fixed;
   background-position: top center;
   background-repeat: no-repeat;
@@ -518,33 +518,33 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url("https://oispaesaa.tk/img/2.png");
+    background: #fff url("https://lekagh.github.io/Oispa-Esaa/img/2.png");
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
   .tile.tile-4 .tile-inner {
-    background: #fff url('https://oispaesaa.tk/img/4.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/4.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
 
   .tile.tile-8 .tile-inner {
-    background: #fff url('https://oispaesaa.tk/img/8.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/8.png');
     background-size: cover;}
 
   .tile.tile-16 .tile-inner {
-    background: #fff url('https://oispaesaa.tk/img/16.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/16.png');
     background-size: cover;}
 
   .tile.tile-32 .tile-inner {
-    background: #fff url('https://oispaesaa.tk/img/32.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/32.png');
     background-size: cover;}
 
   .tile.tile-64 .tile-inner {
-    background: #fff url('https://oispaesaa.tk/img/64.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/64.png');
     background-size: cover;}
 
   .tile.tile-128 .tile-inner {
-    background: #fff url('https://oispaesaa.tk/img/128.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/128.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -553,7 +553,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
 
-    background: #fff url('https://oispaesaa.tk/img/256.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/256.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.41746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -562,7 +562,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
 
-    background: #fff url('https://oispaesaa.tk/img/512.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/512.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(116, 116, 243, 0.42683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -570,7 +570,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('https://oispaesaa.tk/img/1024.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/1024.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 116, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -579,7 +579,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
 
-    background: #fff url('https://oispaesaa.tk/img/2048.png');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/2048.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(116, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
