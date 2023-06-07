@@ -588,7 +588,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
 
-    background: #fff url('');
+    background: #fff url('https://lekagh.github.io/Oispa-Esaa/img/super.png');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 480px) {
